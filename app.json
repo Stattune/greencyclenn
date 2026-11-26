@@ -1,0 +1,8 @@
+{
+  "name": "greencycle",
+  "description": "GreenCycle \u2014 Grow a Better Tomorrow",
+  "website": "https://example.com",
+  "repository": "",
+  "success_url": "/",
+  "env": {}
+}

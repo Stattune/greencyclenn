@@ -1,0 +1,9 @@
+{
+  "name": "GreenCycle \u2014 Grow a Better Tomorrow",
+  "short_name": "GreenCycle",
+  "description": "Growing a cleaner, greener future through restoration, recycling and community action.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07170f",
+  "theme_color": "#071b14"
+}
